@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/appDeploy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/movieProject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myFlask/newApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myFlask/weatherApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myProjects" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myProjects/test-python-program-Sakthilab" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sg-weather" vcs="Git" />
+  </component>
+</project>
